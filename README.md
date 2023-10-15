@@ -1,4 +1,4 @@
-![0bf23e9082a0a2a2723c1e159bce3580](https://github.com/leanpaganism/leanpaganism/assets/84989762/53575ae6-1eb6-4236-80aa-7385ac1b2732)<h1 align="center">privet, i am Valerie, but i have a lot 
+privet, i am Valerie, but i have a lot 
 of other names</h1>
 <h3 align="center">I am a AuDHD trans girl from Brazil, i only live at internet, and like to mess up with my sleep schedule while im studying or coding, you can call me Valerie/lean/envy. I mainly like Java/Spring, Linux(Arch and Debian) but i want to learn C(to contribute with Debian, or make an Arch based distro), PHP(it was the language from my dreams). I love studying and i will try to improve my english.</h3>
 
