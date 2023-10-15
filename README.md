@@ -1,5 +1,4 @@
-privet, i am Valerie, but i have a lot 
-of other names</h1>
+<h1>privet, i am Valerie, but i have a lot of other names</h1>
 <h3 align="center">I am a AuDHD trans girl from Brazil, i only live at internet, and like to mess up with my sleep schedule while im studying or coding, you can call me Valerie/lean/envy. I mainly like Java/Spring, Linux(Arch and Debian) but i want to learn C(to contribute with Debian, or make an Arch based distro), PHP(it was the language from my dreams). I love studying and i will try to improve my english.</h3>
 
 <p align="left"> <a href="https://twitter.com/knivesoutxoxo" target="blank"><img src="https://img.shields.io/twitter/follow/knivesoutxoxo?logo=twitter&style=for-the-badge" alt="knivesoutxoxo" /></a> </p>
