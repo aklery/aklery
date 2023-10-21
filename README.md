@@ -1,7 +1,7 @@
 <h1>privet, i am Valerie, but i have a lot of other names</h1>
 <h3 align="center">I am a AuDHD trans girl from Brazil, i only live at internet, and like to mess up with my sleep schedule while im studying or coding. You can call me Valerie/lean/envy. I mainly like Java/Spring, Linux(Arch and Debian) but i want to learn C(to contribute with Debian, or make an Arch based distro), PHP(it was the language from my dreams). I love studying and i will try to improve my english.</h3>
 
-<p align="left"> <a href="https://twitter.com/knivesoutxoxo" target="blank"><img src="https://img.shields.io/twitter/follow/knivesoutxoxo?logo=twitter&style=for-the-badge" alt="knivesoutxoxo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/agathadevsz" target="blank"><img src="https://img.shields.io/twitter/follow/agathadevsz?logo=twitter&style=for-the-badge" alt="agathadevsz" /></a> </p>
 
 - 🔭 I’m currently working on [An Hotel site(my first projct)](https://github.com/leanpaganism/villa3lagos)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/knivesoutxoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knivesoutxoxo" height="30" width="40" /></a>
+<a href="https://twitter.com/agathadevsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agathadevsz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aklery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aklery" height="30" width="40" /></a>
 <a href="https://discord.gg/VMbZhhX2KZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VMbZhhX2KZ" height="30" width="40" /></a>
 </p>
