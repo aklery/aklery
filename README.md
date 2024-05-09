@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Envy and I'm a Back-end focused developer, from Santa Catarina, Brazil</h2>
 
-###
+###<img align="right" height="150" src="https://github.com/aklery/aklery/assets/84989762/02a67c8b-fd09-4020-93ed-95c9c63c93ab"/>
+
 
 <div align="center">
 
