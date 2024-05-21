@@ -1,34 +1,14 @@
-<h2 align="left">Hi 👋! My name is Envy and I'm a Back-end focused developer, from Santa Catarina, Brazil</h2>
-
-###<img align="right" height="150" src="https://github.com/aklery/aklery/assets/84989762/02a67c8b-fd09-4020-93ed-95c9c63c93ab"/>
-
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aklery&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aklery&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://github.com/aklery/aklery/assets/84989762/85e31e85-2501-4585-b412-e46e5eabb79e()
-"  />
-
-###
+# 💫 About Me:
+Hi 👋! My name is Envy and I'm a Back-end focused developer, from Santa Catarina, Brazil
 
 
-###
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/leanpaganism) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ag9tha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/threedesgraca) 
 
-<div align="left">
-  
-  
-  <a href="https://www.linkedin.com/in/aklery/"> <img href src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
+# 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=aklery&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br clear="both">
-
-
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
